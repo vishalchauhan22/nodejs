@@ -1,0 +1,48 @@
+1. Javascript (5)
+	Asyncronous
+
+2. Node.js (5)
+	Chrome V8 Engine
+	REPL
+
+3. Async flow (NonBlocking IO) (10)
+	Event Driven
+		Folder3 Examples
+
+4. Eventloop (30)
+	https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+	https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c
+	4.1. Stack
+	4.2. Callback Queue
+	4.3. Worker Threads
+
+5. Async control flow (5)
+	Async
+
+6. Callbacks (10)
+
+7. Promises (5)
+
+8. Modules (10)
+	(Local / Global)
+		NPM
+
+9. Export/Require (15)
+
+10. Globals (5)
+	export
+	require
+	module
+	global
+	__dirname
+	__filename
+	process
+
+11. Native Modules (5)
+	fs
+	http
+	events
+
+
+12. Create Promise/Callbacks (15)
+	Async
